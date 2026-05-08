@@ -12,16 +12,8 @@
 
 <h3>Socials</h3>
 <p align="left">
-  <a href="https://www.github.com/ehsanmns" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/esanmns" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ehsanmansouri93/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-</p>
+ more info: <a href="https://ehsanmns.github.io/" target="_blank" rel="noreferrer">ehsanmns.github.io
+   
 
 </body>
 </html>
