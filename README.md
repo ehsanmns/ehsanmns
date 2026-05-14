@@ -4,7 +4,7 @@
 <hr>
 
 <h2>Software engineer</h2>
-<p>I am a skilled professional with four years of experience in the technology industry, specializing in network management, software engineering and ML.</p>
+<p>I am a skilled professional with six years of experience in the technology industry, specializing in network management, software engineering and ML.</p>
 <ul>
   <li>🌍  I'm based in Iran</li>
   <li>✉️  You can contact me at <a href="mailto:ehsanmansouri128@gmail.com">ehsanmansouri128@gmail.com</a></li>
